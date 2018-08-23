@@ -9,7 +9,7 @@ def fourth_challenge
           :name => "Benvolio",
           :age => "17",
           :attitude => "worried"
-        }
+        },
          :second_friend => {
            :name => "Mercutio",
            :age => "18",
@@ -26,7 +26,7 @@ def fourth_challenge
           :name => "Steven",
           :age => "30",
           :attitude => "confused"
-        }
+        },
          :second_friend => {
            :name => "Nurse",
            :age => "44",
